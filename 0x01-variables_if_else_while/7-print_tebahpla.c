@@ -11,8 +11,8 @@ int main(void)
 
 	for (i = 122; i > 96; i--)
 	{
-		Putchar(i);
+		putchar(i);
 	}
-	putchar("\n");
+	putchar('\n');
 	return (0);
 }
