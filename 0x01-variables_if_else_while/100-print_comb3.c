@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - A program that prints all possible different combinations of two digits numbers seperated by ,, followed by a space.
+ * main - A program that prints all possible different combinations of two digits numbers
+ * seperated by ,, followed by a space.
  *
  * Return: Always 0 (Success)
  */
