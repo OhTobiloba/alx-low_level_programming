@@ -15,7 +15,7 @@ int main(void)
 	first_number = 0;
 	second_number = 1;
 
-	for (counter =1; counter <= 49; counter++)
+	for (counter = 1; counter <= 49; counter++)
 	{
 		result = first_number + second_number;
 		first_number = second_number;
