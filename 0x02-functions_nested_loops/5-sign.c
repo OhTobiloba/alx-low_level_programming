@@ -5,12 +5,12 @@
  * 
  * @c: number to check
  *
- * Return: +1 if is positive, 0 if is 0 and -1 if is negative
+ * Return: +1 if is positive, 0 if is 0 and -1 if negative.
  */
 
 int print_sign(int c)
 {
-        if (c > 0)
+	if (c > 0)
 	{
 		_putchar('+');
 		return (1);
