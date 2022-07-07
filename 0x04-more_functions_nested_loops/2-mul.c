@@ -7,6 +7,7 @@
  * @b: An input integer
  * Return: Always 0 (Success)
  */
+
 int mul(int a, int b)
 {
 	int result;
