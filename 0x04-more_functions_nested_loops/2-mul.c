@@ -2,7 +2,7 @@
 
 /**
  * mul - a function that multiples two integers.
- * @: An input integer
+ * @a: An input integer
  * @b: An input integer
  * Return: Always 0
  */
