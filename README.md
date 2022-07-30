@@ -1,2 +1,1 @@
-#!/bin/bash
-Debugging in C
+malloc free
