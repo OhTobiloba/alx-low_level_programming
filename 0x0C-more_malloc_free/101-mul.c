@@ -1,4 +1,6 @@
 #include "main.h"
+#include <stdio.h>
+#include <stdlib.h>
 
 /**
  * _puts - prints a string, followed by a new line,
@@ -67,7 +69,7 @@ for (; divisor >= 1; n %= divisor, divisor /= 10)
 }
 
 }
-
+AOA
 /**
  * main - print the result of the multiplication, followed by a new line
  * @argc: int
