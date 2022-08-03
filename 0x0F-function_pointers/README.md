@@ -1,1 +1,1 @@
-function pointers
+Basic stuffs on pointers
