@@ -1,1 +1,1 @@
-Singly_linked
+Singly linked
